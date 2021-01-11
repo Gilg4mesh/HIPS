@@ -1,6 +1,6 @@
 | hip | title | author | created | duration | Snapshot Block Number |
 |----------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 48 | Mining for pool #3 in the 19th week | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2021-01-05 13:00 | 1 | 11593554 |
+| - | Mining for pool #3 in the 19th week | 0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd | 2021-01-05 13:00 | 1 | 11593554 |
 
 
 ### Summary
